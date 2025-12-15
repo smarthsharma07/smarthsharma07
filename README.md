@@ -57,8 +57,9 @@ Machine Learning (sklearn)    ██████░░░░░░░
 Statistics for Data Science   █████░░░░░░░░
 DSA (C++)                     ████░░░░░░░░
 Systematic Software Design    ████░░░░░░░░
-<sub>Focused depth > rushed breadth</sub>
 ```
+<sub>Focused depth > rushed breadth</sub>
+
 ##  📜 Certifications
 ✅ Data Analysis with Python : freeCodeCamp (2025)
 

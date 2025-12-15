@@ -29,7 +29,7 @@
 I’m a **first-year engineering student** focused on building a strong base in  
 **Python, data analysis, and software development**.
 
-I learn best by **doing** — completing structured projects, passing test cases,
+I learn best by **doing**, completing structured projects, passing test cases,
 and understanding the reasoning behind solutions rather than memorizing steps.
 
 Currently, I’m expanding toward **full-stack development and machine learning**
@@ -60,7 +60,7 @@ Systematic Software Design    ████░░░░░░░░
 <sub>Focused depth > rushed breadth</sub>
 ```
 ##  📜 Certifications
-✅ Data Analysis with Python — freeCodeCamp (2025)
+✅ Data Analysis with Python : freeCodeCamp (2025)
 
 NumPy & Pandas for data manipulation
 
@@ -75,7 +75,7 @@ Multiple real-world projects with automated tests
 🔗 Verification link:
 https://www.freecodecamp.org/certification/smarthsharma07/data-analysis-with-python-v7
 
-⏳ Python Certification — freeCodeCamp
+⏳ Python Certification : freeCodeCamp
 
 Exam completed • Certificate verification pending (expected this week)
 

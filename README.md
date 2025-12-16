@@ -11,7 +11,7 @@
 <!-- Animated GitHub Cards -->
 <img src="https://github-readme-stats.vercel.app/api?username=smarthsharma07&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=smarthsharma07&theme=tokyonight&hide_border=true" height="165"/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smarthsharma07&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarthsharma07&layout=compact&theme=tokyonight"/>
 
 
 <br/><br/>

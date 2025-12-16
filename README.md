@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/Python-Hands--On-success?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Analysis-Project%20Based-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Full%20Stack-In%20Progress-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-GitHub-Comfortable-black?style=for-the-badge&logo=github"/>
 
 </div>
 

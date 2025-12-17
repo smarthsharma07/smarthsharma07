@@ -10,7 +10,7 @@
 
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smarthsharma07&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=smarthsharma07&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smarthsharma07&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smarthsharma07&layout=compact&theme=tokyonight)
 
 <br/>
@@ -74,9 +74,17 @@ Multiple real-world projects with automated tests
 🔗 Verification:
 https://www.freecodecamp.org/certification/smarthsharma07/data-analysis-with-python-v7
 
-⏳ Python Certification — freeCodeCamp
+✅ **Python Developer Certification** — freeCodeCamp (2025)  
+- Final Exam Score: **100%**
+- Object Oriented Programming
+- Working with various Data Structures
+- Basic Algorithms
+- Basic of Graphs & Trees
+- Multiple Real world projects with automated tests
+- 300 hours of hands on practice
 
-Exam completed • Certificate verification pending
+Verify Here:
+🔗 https://www.freecodecamp.org/certification/smarthsharma07/python-v9
 
 ## 📌 Featured Projects
 🌊 Sea Level Predictor

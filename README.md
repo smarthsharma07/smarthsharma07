@@ -2,23 +2,24 @@
 
 # ⚡ Smarth Sharma
 
-### Engineering Student • Python • Data Analysis • Full Stack (In Progress)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Engineering+Student;Python+%7C+Data+Analysis;Full+Stack+(In+Progress);Building+Strong+CS+Fundamentals" />
+</p>
 
 <sub><i>Building strong fundamentals through hands-on projects and disciplined learning.</i></sub>
 
 <br/>
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smarthsharma07&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smarthsharma07&theme=dracula)
-
+<img src="https://github-readme-stats.vercel.app/api?username=smarthsharma07&show_icons=true&theme=dracula&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarthsharma07&layout=compact&theme=dracula&hide_border=true" />
 
 <br/>
 
 <!-- Skill Badges -->
 <img src="https://img.shields.io/badge/Python-Hands--On-success?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-Project%20Based-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full%20Stack-In%20Progress-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-Project%20Driven-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Learning-orange?style=for-the-badge"/>
 
 </div>
 
@@ -26,22 +27,22 @@
 
 ## 👋 About Me
 
-I’m a **first-year engineering student** focused on building a strong foundation in  
+I’m a **first-year engineering student** focused on building a strong and honest foundation in  
 **Python, data analysis, and software development**.
 
 I learn best by **building and validating** — completing structured projects,
-passing automated tests, and understanding *why* solutions work rather than memorizing steps.
+passing automated tests, and understanding *why* solutions work instead of memorizing steps.
 
-Currently, I’m expanding toward **full-stack development and machine learning**  
-while strengthening **core CS fundamentals**.
+Currently, I’m expanding toward **full-stack development and machine learning**,  
+while strengthening **core computer science fundamentals**.
 
 ---
 
 ## 🧠 Core Skills (Current)
 
-| Area | Tools | Level |
+| Area | Tools | Proficiency |
 |----|----|----|
-| Programming | Python | Hands-on, project-complete |
+| Programming | Python | Project-complete |
 | Data Analysis | NumPy, Pandas | Confident |
 | Visualization | Matplotlib | Confident |
 | Version Control | Git, GitHub | Comfortable |
@@ -51,74 +52,70 @@ while strengthening **core CS fundamentals**.
 
 ## 🧪 Skills in Progress 🚧
 
-```
-Full Stack Development        █████░░░░░░░░
+Full Stack Development █████░░░░░░░░
 Machine Learning (scikit-learn) ██████░░░░░░░
-Statistics for Data Science   █████░░░░░░░░
-DSA (C++)                     ████░░░░░░░░
-Systematic Software Design    ████░░░░░░░░
-```
+Statistics for Data Science █████░░░░░░░░
+DSA (C++) ████░░░░░░░░
+Software Design Thinking ████░░░░░░░░
+
+
+---
+
 ## 📜 Certifications
-✅ Data Analysis with Python — freeCodeCamp (2025)
 
-NumPy & Pandas for data manipulation
+### ✅ Data Analysis with Python — freeCodeCamp (2025)
+- NumPy & Pandas for data manipulation  
+- Data visualization with Matplotlib  
+- Linear regression & statistical fundamentals  
+- Multiple real-world projects with automated tests  
+- ~300 hours of hands-on practice  
 
-Data visualization with Matplotlib
-
-Linear regression & statistical fundamentals
-
-Multiple real-world projects with automated tests
-
-~300 hours of hands-on practice
-
-🔗 Verification:
+🔗 Verification:  
 https://www.freecodecamp.org/certification/smarthsharma07/data-analysis-with-python-v7
 
-✅ **Python Developer Certification** — freeCodeCamp (2025)  
-- Final Exam Score: **100%**
-- Object Oriented Programming
-- Working with various Data Structures
-- Basic Algorithms
-- Basic of Graphs & Trees
-- Multiple Real world projects with automated tests
-- 300 hours of hands on practice
+---
 
-Verify Here:
-🔗 https://www.freecodecamp.org/certification/smarthsharma07/python-v9
+### ✅ Python Developer Certification — freeCodeCamp (2025)
+- **Final Exam Score: 100%**
+- Object-Oriented Programming  
+- Core data structures & algorithms  
+- Basics of graphs and trees  
+- Multiple real-world projects with automated tests  
+- ~300 hours of hands-on practice  
+
+🔗 Verification:  
+https://www.freecodecamp.org/certification/smarthsharma07/python-v9
+
+---
 
 ## 📌 Featured Projects
-🌊 Sea Level Predictor
 
-Built regression models to predict future sea level trends
+### 🌊 Sea Level Predictor
+- Built regression models to predict future sea-level trends  
+- Cleaned and analyzed historical datasets  
+- Extended predictions with clear visualizations  
 
-Cleaned and analyzed historical datasets
+### 📈 Time Series Visualizer
+- Line, bar, and box plots from time-indexed datasets  
+- Focus on distribution analysis and data storytelling  
 
-Extended predictions with clear visualizations
+### 📊 Mean–Variance–Standard Deviation Calculator
+- Statistical analysis tool using NumPy arrays  
+- Emphasis on correctness, edge cases, and clean output  
 
-📈 Time Series Visualizer
+<sub>All projects meet specifications and pass required automated test cases.</sub>
 
-Line, bar, and box plots from time-indexed datasets
+---
 
-Focus on distribution analysis and data storytelling
+## 🎯 Current Focus
 
-📊 Mean–Variance–Standard Deviation Calculator
-
-Statistical analysis tool using NumPy arrays
-
-Emphasis on correctness, edge cases, and clean output
-
-<sub>All projects meet specifications and pass required test cases.</sub>
-
-## 🎯 What I’m Working Toward
-
-Internship-ready software / data roles
-
-Building real-world and startup-oriented projects
-
-Machine learning grounded in statistics, not hype
-
-Long-term growth as a disciplined engineer
+- Becoming internship-ready for software / data roles  
+- Building real-world and startup-oriented projects  
+- Learning machine learning grounded in **statistics, not hype**  
+- Long-term growth as a disciplined engineer  
 
 <div align="center">
 
 ✨ <i>Skill by skill. Project by project. Built honestly.</i> ✨
+
+</div>

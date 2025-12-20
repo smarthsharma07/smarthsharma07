@@ -3,7 +3,7 @@
 # ⚡ Smarth Sharma
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Engineering+Student;Python+%7C+Data+Analysis;Full+Stack+(In+Progress);Building+Strong+CS+Fundamentals" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Electronics+Engineering+Student;Python+%7C+Data+Analysis;Full+Stack+(In+Progress);Building+Strong+CS+Fundamentals;Crafting+with+Tech;" />
 </p>
 
 <sub><i>Building strong fundamentals through hands-on projects and disciplined learning.</i></sub>

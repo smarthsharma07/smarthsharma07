@@ -47,7 +47,7 @@
 I’m a **first-year engineering student** focused on building a **strong, honest foundation** in  
 **Python, data analysis, and software development**.
 
-I learn best by **building and validating** — completing structured projects,  
+I learn best by **building and validating** completing structured projects,  
 passing automated test cases, and understanding *why* solutions work instead of memorizing steps.
 
 Currently, I’m expanding toward **full-stack development and machine learning**,  

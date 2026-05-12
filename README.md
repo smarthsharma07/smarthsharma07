@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # ⚡ Smarth Sharma
@@ -126,4 +125,3 @@ Built from scratch in Python.
 © 2026 Smarth Sharma. All Rights Reserved.
 
 </div>
-```

@@ -2,9 +2,9 @@
 
 # ⚡ Smarth Sharma
 
-### Electronics Engineering Student • Python • Data Analysis • Software Development
+### Electronics & Communication Engineering @ NSUT • AI/ML • Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Python+Developer;Data+Analysis+Enthusiast;Building+Strong+CS+Fundamentals;Full+Stack+Development+(Learning);Machine+Learning+Explorer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Software+Developer;Electronics+Engineer;Building+Projects+%26+Solving+Problems;Always+Learning+Something+New" />
 
 <br/>
 
@@ -21,13 +21,14 @@
 
 <br/><br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 </div>
 
@@ -35,93 +36,170 @@
 
 # 👋 About Me
 
-I’m a first-year engineering student focused on building a strong foundation in:
+I'm an **Electronics & Communication Engineering** student at **NSUT** with a strong interest in **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
 
-- Python programming
-- Data analysis
-- Algorithms and problem solving
-- Software development fundamentals
+I enjoy understanding how systems work internally, whether that's an algorithm, a machine learning model, or an embedded system. Most of my learning happens through building projects and solving problems.
 
-I prefer learning by building projects, implementing concepts from scratch, and understanding systems internally rather than memorizing solutions.
+Currently focusing on:
 
-Currently exploring:
-
-- Full-stack development
-- Machine learning
-- Data structures & algorithms
-- Software design thinking
-- Applied problem solving through projects
+* 🤖 Machine Learning
+* 📊 Data Analytics
+* 💻 Data Structures & Algorithms
+* 🌐 Full Stack Development
+* 🔌 Embedded Systems & Arduino
 
 ---
 
-# 🧠 Core Skills
+# 🛠 Tech Stack
 
-| Area | Technologies |
-|---|---|
-| Programming | Python, C++, JavaScript |
-| Data Analysis | NumPy, Pandas, Matplotlib |
-| Web Development | HTML, CSS |
-| Tools | Git, GitHub |
-| CS Fundamentals | DSA, OOP, Graph Algorithms |
+### Languages
+
+* Python
+* C++
+* SQL
+* JavaScript
+* HTML/CSS
+
+### AI & Data Science
+
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-Learn
+* XGBoost
+* CatBoost
+* LightGBM
+
+### Development
+
+* Git
+* GitHub
+* Flask
+* Streamlit
+* Jupyter Notebook
+
+### Electronics
+
+* Arduino
+* Sensors
+* Breadboarding
+* Embedded Programming
 
 ---
 
 # 🚀 Featured Projects
 
-## 🍽️ Zomato CSAO Recommendation Engine
-Two-stage recommendation system using:
-- semantic retrieval
-- ranking models
-- contextual recommendations
+## 📚 StudyIntel *(In Progress)*
 
-Built for the Zomato CSAO Hackathon.
+An AI-powered study analytics platform that helps students understand their learning habits using data visualization and machine learning.
 
----
+**Tech**
 
-## 🗺️ Map Navigator
-Pathfinding project using:
-- BFS traversal
-- adjacency lists
-- shortest path logic
-- frontend + backend integration
+* Python
+* Streamlit
+* Pandas
+* Scikit-Learn
 
 ---
 
-## 📈 Insurance Cost Prediction
-Machine learning project involving:
-- exploratory data analysis
-- regression models
-- Ridge and Lasso regularization
-- hyperparameter tuning
+## 🌦 WeatherWise
+
+Weather application built using Flask and OpenWeather API.
+
+**Features**
+
+* Live weather
+* City search
+* Clean responsive UI
 
 ---
 
-## 🌐 Graph and Search Algorithms
-Implementations of:
-- BFS
-- DFS
-- Dijkstra’s Algorithm
+## 🛳 Spaceship Titanic (Kaggle)
 
-Built from scratch in Python.
+Machine Learning classification project.
+
+* Feature Engineering
+* CatBoost
+* XGBoost
+* LightGBM
+* Hyperparameter Tuning
+
+🏆 **Best Public Rank: Top 500 ~Top 20%**
 
 ---
 
-# 🎯 Current Focus
+## 🤖 Machine Learning Projects
 
-- Strengthening DSA and core CS fundamentals
-- Becoming internship-ready
-- Building more real-world projects
-- Learning ML grounded in mathematics and statistics
-- Improving software engineering practices
+Collection of projects covering:
+
+* Regression
+* Classification
+* Model Evaluation
+* Feature Engineering
+* Hyperparameter Optimization
+
+---
+
+## 💡 Arduino Projects
+
+Hands-on embedded projects including:
+
+* RGB LED Control
+* Temperature Monitoring
+* Photoresistor Automation
+* Buzzers
+* Push Buttons
+* Potentiometers
+
+---
+
+# 📈 GitHub Journey
+
+* 💯 Solving DSA problems consistently
+* 🚀 Uploading every LeetCode solution
+* 🧠 Building AI & ML projects
+* 📂 Open-source friendly repositories
+* 📚 Learning in public
+
+---
+
+# 🎯 Current Goals
+
+* 📌 Become internship ready
+* 📌 Master DSA
+* 📌 Build impactful ML projects
+* 📌 Strengthen Software Engineering fundamentals
+* 📌 Explore AI + Embedded Systems
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/smarthsharma07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="mailto:smarthsharmasharma@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/smarth-sharma-2b1298380">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.kaggle.com/signullvoidfound">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⚡ Skill by skill • Project by project • Built honestly
 
-<br/>
-
-© 2026 Smarth Sharma. All Rights Reserved.
+*"Learn deeply. Build consistently. Share openly."*
 
 </div>

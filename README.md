@@ -6,20 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Software+Developer;Electronics+Engineer;Building+Projects+%26+Solving+Problems;Always+Learning+Something+New" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=smarthsharma07&theme=algolia&no-frame=true&row=1&column=6" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=smarthsharma07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarthsharma07&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=smarthsharma07&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)

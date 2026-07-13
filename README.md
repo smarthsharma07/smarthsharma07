@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Software+Developer;Electronics+Engineer;Building+Projects+%26+Solving+Problems;Always+Learning+Something+New" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=smarthsharma07" />
+![GitHub Languages](https://github-languages-card.vercel.app/api/top-languages?username=smarthsharma07&theme=purple)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
